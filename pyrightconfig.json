@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    ".idea",
+    ".pytest_cache",
+    "node_modules",
+    "dist",
+    ".venv",
+    "**/__pycache__",
+    "**/*.pyc"
+  ]
+}
